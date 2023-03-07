@@ -5,3 +5,5 @@ function exclama (str, numEcl){
 
 console.log(exclama("hola",2))
 console.log(exclama("adiós",2))
+
+
